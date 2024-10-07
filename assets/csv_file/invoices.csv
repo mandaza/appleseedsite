@@ -1,0 +1,2 @@
+Invoice-no,Student,Class,Invoice-Title,Total-Amount,Paid-Amount,Creation-Date,Payment-Date,Status
+00000001,"Craig Gazimbi","Grade 1",tuition,$500,$400,21-Sep-2020,21-Sep-2020,Unpaid

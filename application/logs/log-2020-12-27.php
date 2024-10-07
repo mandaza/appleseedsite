@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-27 02:06:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-27 05:14:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-27 21:16:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-27 21:16:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:20 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:23 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:23 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:24 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:24 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:25 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:25 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 21:16:31 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-12-27 23:18:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-27 23:23:34 --> 404 Page Not Found: Robotstxt/index

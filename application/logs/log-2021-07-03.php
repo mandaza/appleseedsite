@@ -1,0 +1,53 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-03 05:21:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-03 07:21:00 --> Severity: error --> Exception: Too few arguments to function Home::active_school_id_for_frontend(), 0 passed in /var/www/vhosts/appleseedsprivate.com/public_html/system/core/CodeIgniter.php on line 532 and exactly 1 expected /var/www/vhosts/appleseedsprivate.com/public_html/application/controllers/Home.php 236
+ERROR - 2021-07-03 06:39:49 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:50 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:39:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:05 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:05 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:14 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:14 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:23 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:31 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 06:40:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2021-07-03 07:10:57 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:01 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:01 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:01 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:02 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:02 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:02 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-03 07:11:03 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:03 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:03 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:03 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 07:11:04 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-03 14:44:01 --> Severity: error --> Exception: Too few arguments to function Home::active_school_id_for_frontend(), 0 passed in /var/www/vhosts/appleseedsprivate.com/public_html/system/core/CodeIgniter.php on line 532 and exactly 1 expected /var/www/vhosts/appleseedsprivate.com/public_html/application/controllers/Home.php 236
+ERROR - 2021-07-03 13:14:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-03 13:18:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-03 13:22:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-03 13:45:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 13:45:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 13:45:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 13:45:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 13:45:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 17:45:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 17:45:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 17:45:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 17:45:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-03 17:45:31 --> 404 Page Not Found: Wp-loginphp/index
